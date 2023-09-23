@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aditi Nadiger</h1>
-<h3 align="center">A freshman in tech trying to increase the slope of the learning curve.</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 [![](https://visitcount.itsvg.in/api?id=2514-Aditi&icon=2&color=12)](https://visitcount.itsvg.in)
