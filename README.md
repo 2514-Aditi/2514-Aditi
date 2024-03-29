@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=2514-Aditi&icon=2&color=12)](https://visitcount.itsvg.in)
 
-💫 About Me:
+# 💫 About Me:
 🔭 I’m pursuing B.Tech in CSE(AIML)<br>🌱 I’m currently learning Frontend web development, MERN stack<br>👯 I’m looking to collaborate on Real-world WebDev projects<br>💬 Ask me about C++, WebDev
 
 
